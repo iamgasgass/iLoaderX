@@ -22,10 +22,10 @@
       "versions": [
         {
           "version": "1.1.0",
-          "date": "2026-11-27T21:56:24Z",
+          "date": "2026-11-27T22:04:53Z",
           "downloadURL": "https://github.com/iamgasgass/iLoaderX/releases/download/v1.1.0/iLoaderX.ipa",
           "localizedDescription": "iLoader X 1.1.0, rebuilt: About opens PayPal.me/iamgasgass and credits FrizzleM and SideInstaller; the update banner, Side by Side and Source code links point at github.com/iamgasgass/iLoaderX again.",
-          "size": 18503209,
+          "size": 18503202,
           "minOSVersion": "17.4"
         },
         {
@@ -38,10 +38,10 @@
         }
       ],
       "version": "1.1.0",
-      "versionDate": "2026-11-27T21:56:24Z",
+      "versionDate": "2026-11-27T22:04:53Z",
       "versionDescription": "iLoader X 1.1.0, rebuilt: About opens PayPal.me/iamgasgass and credits FrizzleM and SideInstaller; the update banner, Side by Side and Source code links point at github.com/iamgasgass/iLoaderX again.",
       "downloadURL": "https://github.com/iamgasgass/iLoaderX/releases/download/v1.1.0/iLoaderX.ipa",
-      "size": 18503209,
+      "size": 18503202,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
